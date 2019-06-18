@@ -12,9 +12,9 @@ If you use IntelliJ IDEA use new -> Project From Version Control -> Git and past
     -	add(int value) : add a new node with the value to the tree
     -	isContained(int value): search and return the Boolean if the tree contains the value  or not 
     -	remove (int value): delete (or in some case replace) the node with the value , print out warning if the node is not found 
-    -	printInOrder(): actually the name could be Traversal In Order but it reflect more accurately what the method does.  
+    -	printInOrder(): actually the name could be Traversal In Order but it reflects more accurately what the method does.  
 ##	Note:
 -	Due to the class is written purely for learning purpose so very little Exception handle is expected 
--	Except for the printInOrder() method , all of the other part is written by me from scratch based on the description (Of course I may peek at a small part of code from others on the internet). However the printInOrder() method was too complex for me due to my poor skill at Recursion . As a result I referenced the code from here:  https://www.programiz.com/dsa/tree-traversal
+-	Except for the printInOrder() method , all of the other parts is written by me from scratch based on the description (Of course I may peek at a small part of code from others on the internet). However the printInOrder() method was too complex for me due to my poor skill at Recursion . As a result I referenced the code from here:  https://www.programiz.com/dsa/tree-traversal
 ##	License 
 [MIT License](https://github.com/JimmyYouhei/BinaryTree/blob/master/LICENSE)
