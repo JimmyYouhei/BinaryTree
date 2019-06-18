@@ -6,7 +6,7 @@ This is my own Binary Search Tree class that is written by me from scratch . The
 -	JDK version 11
 ##	How to install:
 If you use IntelliJ IDEA use new -> Project From Version Control -> Git and paste https://github.com/JimmyYouhei/BinaryTree.git
-##.	How to use: 
+##	How to use: 
 -	Using the Main class to run and test any method 
 -	The BinarySearchTree class is fully written with method: 
     -	add(int value) : add a new node with the value to the tree
