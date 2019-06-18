@@ -1,6 +1,6 @@
 package com.jimmyyouhei.binary_tree;
 
-public class SortedBinaryTree {
+public class BinarySearchTree {
 
     // root node
     Node root;
@@ -195,5 +195,5 @@ public class SortedBinaryTree {
 
     }
 
-    
+
 }

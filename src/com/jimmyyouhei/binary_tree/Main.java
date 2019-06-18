@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        SortedBinaryTree test = new SortedBinaryTree();
+        BinarySearchTree test = new BinarySearchTree();
 
         test.add(52);
         test.add(33);
