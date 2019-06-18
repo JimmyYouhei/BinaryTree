@@ -7,16 +7,22 @@ public class Main {
 
         SortedBinaryTree test = new SortedBinaryTree();
 
-        test.add(4);
-        test.add(2);
-        test.add(6);
-        test.add(1);
-        test.add(3);
-        test.add(5);
-        test.add(8);
-        test.add(7);
+        test.add(52);
+        test.add(33);
+        test.add(65);
+        test.add(25);
+        test.add(39);
+        test.add(60);
+        test.add(78);
+        test.add(12);
+        test.add(27);
+        test.add(34);
+        test.add(48);
+        test.add(72);
+        test.add(90);
+        test.add(70);
 
-        test.remove(6);
+        test.printInOrder(test.root);
 
         System.out.println("test");
         System.out.println("test2");
